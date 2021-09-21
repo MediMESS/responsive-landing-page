@@ -5,7 +5,7 @@ Using the power of CSS & Animation
 
 ## Demo
 
-Link1: https://responsive-landing-page.github.io <br/>
+Link1: https://medimess.github.io/responsive-lading-page.github.io/build <br/>
 
 Link2: https://animated-responsive-page.herokuapp.com/#
 
