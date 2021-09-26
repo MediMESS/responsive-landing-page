@@ -1,6 +1,5 @@
 import React from "react";
 import * as navbarStyles from "./Navbar.module.css";
-import logoPath from "./../../assets/hero";
 
 const Navbar = () => {
   return (
