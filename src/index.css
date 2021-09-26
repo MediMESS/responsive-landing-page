@@ -21,6 +21,25 @@ code {
     monospace;
 }
 
+.primary {
+  color: var(--primary);
+}
+.dark-primary {
+  color: var(--dark-primary);
+}
+.violet {
+  color: var(--violet);
+}
+.blue-green {
+  color: var(--blue-green);
+}
+.yellow {
+  color: var(--yellow);
+}
+.light-orange {
+  color: var(--light-orange);
+}
+
 .section-container {
   max-width: 1160px;
   position: relative;
