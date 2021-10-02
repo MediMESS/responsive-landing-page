@@ -11,6 +11,9 @@ const Navbar = () => {
         <span className="dark-primary">L</span>
         <span className="yellow">.</span>
       </div>
+      <div className={navbarStyles.links}>
+        <div className={navbarStyles.middleLink}></div>
+      </div>
       <h1>Navbar</h1>
     </div>
   );
